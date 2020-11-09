@@ -3,10 +3,9 @@
   <groupId>com.fbank.credit.archetype</groupId>
   <artifactId>pluton-boot-archetype</artifactId>
   <versioning>
-    <release>1.0</release>
     <versions>
-      <version>1.0</version>
+      <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20201109081514</lastUpdated>
+    <lastUpdated>20201109082700</lastUpdated>
   </versioning>
 </metadata>
